@@ -1,6 +1,6 @@
 # portapy
 
-`portapy` is a easy to build version of embedded Python and the following packages for portable use that comes to around 36MB:
+`portapy` is a easy to build version of embedded Python and the following packages for portable use on Windows that comes to around 36MB:
 
 - [aiohttp](http://aiohttp.readthedocs.io/en/stable/)
 - [async_timeout](https://github.com/aio-libs/async-timeout)
